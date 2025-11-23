@@ -1,6 +1,4 @@
 # tolyavas.github.io
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<HTML> <! -- начало HTML-документа -->
 <HEAD>
 <TITLE> Справочник сайтов судебной практики - Васильев</TITLE>
 </HEAD>
