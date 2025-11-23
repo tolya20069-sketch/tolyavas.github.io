@@ -1,5 +1,4 @@
 
-</HEAD>
 <BODY BACKGROUND="fon.jpg" BGCOLOR="white" TEXT="black"
 LINK="blue"  VLINK="fuchsia"  TOPMARGIN="30" LEFTMARGIN="40">
 <IMG src="Ргуп.png" ALT="Российский государственный университет правосудия им. В.М. Лебедева"
