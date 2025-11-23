@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 3.2 Final//EN”>
+
 <HEAD>
 </HEAD>
 <BODY BACKGROUND="fon.jpg" BGCOLOR="white" TEXT="black"
@@ -37,4 +37,4 @@ http://www.ksrf.ru/</A></TD>
 	</TR>
 </TABLE> 
 </BODY>
-
+15:14 06.10.2025
