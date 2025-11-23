@@ -1,5 +1,4 @@
 
-<HEAD>
 </HEAD>
 <BODY BACKGROUND="fon.jpg" BGCOLOR="white" TEXT="black"
 LINK="blue"  VLINK="fuchsia"  TOPMARGIN="30" LEFTMARGIN="40">
